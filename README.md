@@ -7,7 +7,7 @@ XNA Control for WPF
 
 How to use:
 
-```xaml
+```xml
 <Window x:Class="NewProject.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
